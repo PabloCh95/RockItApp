@@ -1,0 +1,37 @@
+[
+    {
+      "id": "c1",
+      "fullName": "Ana Pérez",
+      "avatarUrl": "",
+      "timestamp": "2025-01-15T14:35:00Z",
+      "comment": "Muy buenos precios y entrega rápida. Recomiendo totalmente esta tienda."
+    },
+    {
+      "id": "c2",
+      "fullName": "Juan Gómez",
+      "avatarUrl": "https://picsum.photos/64/64?random=1",
+      "timestamp": "2025-01-15T10:12:00Z",
+      "comment": "La calidad del producto cumplió mis expectativas. Excelente servicio."
+    },
+    {
+      "id": "c3",
+      "fullName": "María Rodríguez",
+      "avatarUrl": "",
+      "timestamp": "2025-01-14T16:45:00Z",
+      "comment": "Productos de muy buena calidad. El envío fue súper rápido."
+    },
+    {
+      "id": "c4",
+      "fullName": "Carlos López",
+      "avatarUrl": "https://picsum.photos/64/64?random=2",
+      "timestamp": "2025-01-14T09:30:00Z",
+      "comment": "Excelente atención al cliente. Muy satisfecho con mi compra."
+    },
+    {
+      "id": "c5",
+      "fullName": "Laura Martínez",
+      "avatarUrl": "",
+      "timestamp": "2025-01-13T20:15:00Z",
+      "comment": "Los productos llegaron en perfecto estado. Muy recomendable."
+    }
+  ]
