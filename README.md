@@ -395,4 +395,4 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ---
 
-**Desarrollado con ❤️ usando React Native + Expo**
+**Desarrollado con usando React Native + Expo**
