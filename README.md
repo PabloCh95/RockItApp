@@ -325,9 +325,6 @@ expo build:ios
 4. **Imágenes**: No hay fallback para imágenes rotas
 5. **Validación**: Validación básica de tarjeta (no algoritmo de Luhn)
 
-
-## 📱 Capturas de Pantalla
-
 ### Login
 - Pantalla de login con logo y formulario
 - Validación de campos en tiempo real
